@@ -6,3 +6,9 @@ unixtime-jp.popclipext
 # install
 please use [Releases](https://github.com/legnoh/unixtime-jp.popclipext/releases).
 Download Soursecode(zip), unzip, and click
+
+# build
+```sh
+$ cd ..
+$ zip unixtime-jp.zip unixtime-jp.popclipext/*
+```
